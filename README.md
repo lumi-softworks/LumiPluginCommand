@@ -34,7 +34,7 @@ CommandPlugin(bundleID: "com.coffic.gitok.plugin.command")
 ## Installation
 
 ```swift
-.package(url: "https://github.com/CofficLab/LumiPluginCommand.git", from: "1.0.0")
+.package(url: "https://github.com/lumi-softworks/LumiPluginCommand.git", from: "1.0.0")
 ```
 
 ## License
