@@ -1,5 +1,7 @@
 # LumiPluginCommand
 
+📖 English | [中文版](README_zh.md)
+
 Shared command super plugin for Lumi and its sibling applications.
 
 The package exposes the `PluginCommand` product and module so existing hosts
